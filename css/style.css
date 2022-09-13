@@ -123,7 +123,7 @@ ul, ol{
     margin-top: 2%;
 }
 
-.ctr-eventos {
+.ctr-section {
     margin: 40px auto;
     width: 85%;
     min-height: 600px;
@@ -133,7 +133,7 @@ ul, ol{
     border-radius: 8px;
 }
 
-.ctr-eventos .info {
+.ctr-section .info {
     margin: 20px 40px;
     background-color: #fff;
     max-width: 40%;
@@ -141,7 +141,7 @@ ul, ol{
     border-radius: 12px;
 }
 
-.ctr-eventos .info h3 {
+.ctr-section .info h3 {
     font-size: 1.8rem;
     padding-top: 35px;
     padding-bottom: 45px;
@@ -152,13 +152,13 @@ ul, ol{
     text-align: center;
 }
 
-.ctr-eventos .info p {
+.ctr-section .info p {
     color: black;
     text-align: left;
     margin: 20px 60px;
     line-height: 2;
 }
 
-.ctr-eventos .info .button {
+.ctr-section .info .button {
     margin: 50px 150px 0; 
 }
